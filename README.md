@@ -30,7 +30,7 @@ Quarterly_Tax:
 
 Price: Offer Price in EUROs
 
-**Taskes:**
+**Tasks:**
 
 1.Perform exploratory data analysis (EDA) to gain insights into the dataset. Provide visualizations and summary statistics of the variables. Pre process the data to apply the MLR.
 
